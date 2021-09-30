@@ -1,0 +1,175 @@
+.ouroffer{
+    width: 100%;
+    height: 30px;
+    border: 0px none;
+    background: linear-gradient(to right, red,green,yellow,orange);
+    text-align: center;
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+.list{
+    width: 50%;
+    margin-left: 300px;
+    height: 70px;
+    background: gray;
+    border-radius: 10px;
+text-align: center;
+margin-top: 10px;
+border: 5px solid red;
+}
+  
+.list1{text-align: center;
+    position: absolute;
+    left: 600px;
+}
+.grid1{
+    width: 99%;
+    height: 200px;
+    border: 5px solid brown;
+    background: lightseagreen;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+    margin-top: 30px;
+    
+   
+    
+
+}
+hr{
+    margin-top: 0px;
+}
+.lorem1{grid-row: 1/3;
+    
+    border: 5px red solid;
+    background: lightskyblue;
+    border-radius: 10px;
+    height: 85px;
+
+}
+.lorem2{
+    
+    border: 5px red solid;
+    background: lightskyblue;
+    border-radius: 10px;
+
+}
+.lorem3{
+    
+    border: 5px red solid;
+    background: lightskyblue;
+    border-radius: 10px;
+
+}
+.lorem4{
+    
+    border: 5px red solid;
+    background: lightskyblue;
+    border-radius: 10px;
+
+}
+.ourtop{
+    width: 100%;
+    height: 30px;
+    border: 0px none;
+    background: linear-gradient(to right, orange,pink,rgb(163, 163, 95),rgb(185, 128, 20), yellow);
+    text-align: center;
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+.rankers{
+    width: 100%;
+    height: 250px;
+    border: 5px solid lightyellow;
+    background: radial-gradient( violet, indigo, blue, green,orange,red);
+    display: flex;
+    justify-content: space-evenly;
+}
+.vidhata{
+    width: 200px;
+    height: 100px;
+    text-decoration: underline;
+    border: 2px solid red;
+    background: yellow;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 10px;
+    margin-top: 70px;
+   
+
+}
+.thebest{  width: 100%;
+    height: 30px;
+    border: 0px none;
+    background: rgb(185, 128, 20);
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+
+}
+.grid2{
+    width: 100%;
+   height: 250px;
+    border: none;
+    
+   margin-top: 30px;
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr 120px;
+    grid-gap: 10px;
+}
+.you{
+background: green;
+height: 80px;
+grid-column: 1/2;
+grid-row: 1/2;
+font-size: 30px;
+}
+.get{
+    background: violet;
+    height: 80px;
+    grid-column: 2/3;
+grid-row: 1/2;
+font-size: 30px;
+}
+.we{
+    background: purple;
+height: 80px;
+grid-row: 1/2;
+grid-column: 3/4;
+font-size: 30px;
+}
+.lorem20{
+    background: orange;
+    height: 160px;
+    grid-row: 2/4;
+    grid-column: 1/4;
+    font-size: 20px;
+    
+}
+.studymaterial{
+    background: darkcyan;
+    height:250px; 
+    grid-row: 1/5;
+    font-size: 16px;
+    
+
+} 
+.allthe{
+    width: 100%;
+    height: 20px;
+    border: 0px none;
+    background: rgb(121, 170, 216);
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+
+}
+
+
